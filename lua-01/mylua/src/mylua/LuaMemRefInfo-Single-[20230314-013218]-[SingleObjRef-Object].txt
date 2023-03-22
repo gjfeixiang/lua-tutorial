@@ -1,0 +1,5 @@
+--------------------------------------------------------
+-- Collect single object memory reference at line:52@file:...l/PersonalC++/12_lua/mylua/src/mylua/lua_src/Example.lua
+--------------------------------------------------------
+-- For Object: table: 0099CB08 (Author), have 1 reference in total.
+--------------------------------------------------------
